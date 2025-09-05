@@ -1,4 +1,4 @@
-var baseUrl = "https://simulador-guilda.vercel.app/";
+var baseUrl = "https://programacao-3-sem2.vercel.app/";
 
 async function getAventureiro(id) {
   try {
